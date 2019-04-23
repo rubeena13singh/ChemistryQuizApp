@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chemistry Quiz App</string>
+    <string name="score">Correct</string>
+    <string name="scoreNum">0</string>
+    <string name="wrong">Wrong</string>
+    <string name="wrongNum">0</string>
+    <string name="q1">1. Write the formula for carbon dioxide.</string>
+    <string name="q2">2. What is the least dense metal?</string>
+    <string name="q3">3. Which is correct for baking soda?</string>
+    <string name="q4">4. Write the chemical symbol for lead.</string>
+    <string name="q5">5. What is the most abundant element in the universe?</string>
+    <string name="q6">6. Which is correct for borax?</string>
+</resources>
